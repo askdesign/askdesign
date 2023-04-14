@@ -1,14 +1,18 @@
-### 
 👋 Hi, I'm Anne Katzeff
 
 🖥 My Website
 https://www.askdesign.biz
 
-🔭 My Interests
-
 💬 My Blog
+https://www.askdesign.biz/blog
 
 📧 My LinkedIn Profile
+https://www.linkedin.com/in/annekatzeff/
+
+🔭 My Interests
+CSS, HTML, Github, VS Code, WordPress, Bootstrap
+
+
 
 <!--
 **askdesign/askdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
