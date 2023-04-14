@@ -1,10 +1,15 @@
-👋 Hi, I'm Anne Katzeff
+👋 Hi there!
 
 🖥 <a href="https://www.askdesign.biz">My Website</a>
+
 💬 <a href="https://www.askdesign.biz/blog">My Blog</a>
+
 💬 <a href="https://www.youtube.com/user/askdesign2">My Youtube Channel</a>
+
 🎨 <a href="https://fineartamerica.com/profiles/anne-katzeff/shop">My Fine Art Shop</a>
+
 📧 <a href="https://www.linkedin.com/in/annekatzeff/">My LinkedIn Profile</a>
+
 🔭 My Interests - Design and Front-End Dev: CSS, HTML, Github, VS Code, WordPress, Bootstrap
 
 
