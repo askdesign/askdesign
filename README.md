@@ -1,10 +1,10 @@
 👋 Hi, I'm Anne Katzeff
 
-🖥 <a href="https://www.askdesign.biz">My Website</a> - https://www.askdesign.biz
+🖥 <a href="https://www.askdesign.biz">My Website</a>
 
-💬 My Blog - https://www.askdesign.biz/blog
+💬 <a href="https://www.askdesign.biz/blog">My Blog</a>
 
-📧 My LinkedIn Profile - https://www.linkedin.com/in/annekatzeff/
+📧 <a href="https://www.linkedin.com/in/annekatzeff/">My LinkedIn Profile</a>
 
 🔭 My Interests - CSS, HTML, Github, VS Code, WordPress, Bootstrap
 
