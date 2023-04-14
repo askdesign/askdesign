@@ -1,16 +1,12 @@
 👋 Hi, I'm Anne Katzeff
 
-🖥 My Website
-https://www.askdesign.biz
+🖥 My Website - https://www.askdesign.biz
 
-💬 My Blog
-https://www.askdesign.biz/blog
+💬 My Blog - https://www.askdesign.biz/blog
 
-📧 My LinkedIn Profile
-https://www.linkedin.com/in/annekatzeff/
+📧 My LinkedIn Profile - https://www.linkedin.com/in/annekatzeff/
 
-🔭 My Interests
-CSS, HTML, Github, VS Code, WordPress, Bootstrap
+🔭 My Interests - CSS, HTML, Github, VS Code, WordPress, Bootstrap
 
 
 
