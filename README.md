@@ -8,7 +8,7 @@
 
 🎨 <a href="https://fineartamerica.com/profiles/anne-katzeff/shop">My Fine Art Shop</a>
 
-📧 <a href="https://www.linkedin.com/in/annekatzeff/">My LinkedIn Profile</a>
+🌐 <a href="https://www.linkedin.com/in/annekatzeff/">My LinkedIn Profile</a>
 
 🔭 My Interests - Design and Front-End Dev: CSS, HTML, Github, VS Code, WordPress, Bootstrap
 
@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---- more emojis here - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md ---
 -->
